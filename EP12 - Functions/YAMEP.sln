@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAMEP", "YAMEP\YAMEP.csproj", "{10C8B62C-C4AA-45FA-9AB9-1E1EF4212FC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YAMEP.Tests", "YAMEPTests\YAMEP.Tests.csproj", "{8165FAE2-4869-4029-BF5A-DA84E46B733E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10C8B62C-C4AA-45FA-9AB9-1E1EF4212FC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10C8B62C-C4AA-45FA-9AB9-1E1EF4212FC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10C8B62C-C4AA-45FA-9AB9-1E1EF4212FC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10C8B62C-C4AA-45FA-9AB9-1E1EF4212FC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8165FAE2-4869-4029-BF5A-DA84E46B733E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8165FAE2-4869-4029-BF5A-DA84E46B733E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8165FAE2-4869-4029-BF5A-DA84E46B733E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8165FAE2-4869-4029-BF5A-DA84E46B733E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14F099D9-FD34-44B3-B15D-CCFB8F72A4FE}
+	EndGlobalSection
+EndGlobal
